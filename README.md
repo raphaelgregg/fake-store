@@ -1,7 +1,8 @@
 # App Fake Store Lider
-
+<p align="center">
  <img src="./.github/f1.png" alt="">
- <img src="./.github/f2.png" alt="">
+</p>
+
 
  ## Projeto
  O App construido está incompleto.
